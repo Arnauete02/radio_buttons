@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">radio_buttons</string>
+    <string name="R1">R1</string>
+    <string name="R2">R2</string>
+    <string name="R3">R3</string>
+    <string name="R4">R4</string>
+    <string name="R5">R5</string>
+    <string name="R6">R6</string>
+    <string name="R7">R7</string>
+    <string name="R8">R8</string>
+    <string name="R9">R9</string>
+    <string name="Switch">Enable or disable</string>
+</resources>
